@@ -1,5 +1,5 @@
 [Unit]
-Description=My Get Server App
+Description=My Dart Server App
 
 [Service]
 User=user
