@@ -4,7 +4,7 @@
 1. Install the Dart SDK on your local machine by following the official docs here: https://dart.dev/get-dart
 2. Create your project: `dart create your_project_name`
 3. Compile your project in native binary using: `dart compile exe bin/your_project_name.dart` and you should get a file with   **.exe** extension (your_project_name.exe)
-4. Confirm that your server running by: `./your_project_name.exe` and visiting [http://localhost:PORT](http://localhost:PORT)
+4. Confirm that your app is running by: `./your_project_name.exe` and visiting [http://localhost:PORT](http://localhost:PORT)
 
 If everything is ok, then move on to the next part.
 
