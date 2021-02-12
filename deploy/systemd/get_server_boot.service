@@ -1,0 +1,11 @@
+[Unit]
+Description=My Get Server App
+
+[Service]
+User=user
+WorkingDirectory=/home/user/projects
+ExecStart=/home/user/projects/your_project_name.exe
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
